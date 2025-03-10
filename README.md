@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Dominique Del Castillo
 
 ### 🚀 Sobre mí
-Me gusta el procesamiento de imágenes, la visión por computadora y la inteligencia artificial. Tengo experiencia trabajando con modelos de inteligencia artificial, procesamiento de imágenes, análisis de señales y desarrollo de aplicaciones web.
+Me gusta el procesamiento de imágenes, la visión por computadora y la inteligencia artificial. Tengo experiencia trabajando con modelos de inteligencia artificial, procesamiento de imágenes, análisis de señales y desarrollo de plataformas web.
 
 ### 🛠 Tecnologías y herramientas
 - **Lenguajes:** Python, PHP,  Matlab, SQL  
